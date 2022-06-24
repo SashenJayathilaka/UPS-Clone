@@ -1,4 +1,5 @@
 .container-1,
+.container-4,
 .container-3,
 .container-2 {
     border: 1px solid black;
@@ -8,6 +9,7 @@
 }
 
 .flex-box-container-1,
+.flex-box-pick-color,
 .flex-box-rps,
 .flex-box-container-2 {
     display: flex;
